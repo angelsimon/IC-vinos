@@ -1,3 +1,7 @@
+DESCRIPCION DEL PROYECTO
+=========================
+Proyecto realizado para la carrera Licenciatura en Informática, Universidad Blas Pascal. Se trata de un sistema experto Seleccionador de Vinos desarrollado en CLIPS.
+
 DESCRIPCION DE ARCHIVOS
 =======================
 El repositorio contiene:
