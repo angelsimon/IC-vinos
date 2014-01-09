@@ -1,6 +1,7 @@
 DESCRIPCION DE ARCHIVOS
 =======================
 El repositorio contiene:
+
 README.md: Este archivo, descripción de archivos e instrucciones de uso.
 
 tabla-maridaje.pdf: Anexo con las reglas de maridaje en forma de tabla. Fundamental para testear el sistema.
